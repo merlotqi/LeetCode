@@ -1,0 +1,27 @@
+[submodule "TypeScript"]
+	path = TypeScript
+	url = https://github.com/merlotqi/LeetCode-TypeScript.git
+[submodule "Swift"]
+	path = Swift
+	url = https://github.com/merlotqi/LeetCode-Swift.git
+[submodule "C"]
+	path = C
+	url = https://github.com/merlotqi/LeetCode-C.git
+[submodule "CPlusPlus"]
+	path = CPlusPlus
+	url = https://github.com/merlotqi/LeetCode-CPlusPlus.git
+[submodule "Python"]
+	path = Python
+	url = https://github.com/merlotqi/LeetCode-Python.git
+[submodule "Kotlin"]
+	path = Kotlin
+	url = https://github.com/merlotqi/LeetCode-Kotlin.git
+[submodule "Java"]
+	path = Java
+	url = https://github.com/merlotqi/LeetCode-Java.git
+[submodule "JavaScript"]
+	path = JavaScript
+	url = https://github.com/merlotqi/LeetCode-JavaScript.git
+[submodule "Rust"]
+	path = Rust
+	url = https://github.com/merlotqi/LeetCode-Rust.git
